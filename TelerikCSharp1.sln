@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greetings", "Greetings\Greetings.csproj", "{2F3FE328-491A-4593-86A6-428B58A60C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyName", "MyName\MyName.csproj", "{AA140E91-16F8-456E-9DEC-1664979529C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{B85B246C-B50E-40CD-A0D9-22F45365B427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrentTime", "CurrentTime\CurrentTime.csproj", "{7849E73B-0979-4B4D-9C13-C61144F666C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfNumber", "SquareOfNumber\SquareOfNumber.csproj", "{CFB7CEFD-4CA5-49CA-B09F-322A2FCF86B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencePositiveAndNegative", "SequencePositiveAndNegative\SequencePositiveAndNegative.csproj", "{89845B11-FB39-407C-909E-AF634F969F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator", "AgeCalculator\AgeCalculator.csproj", "{4C65B1D6-CAE6-4750-8399-4B5B06A5E23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F3FE328-491A-4593-86A6-428B58A60C39}.Debug|x86.ActiveCfg = Debug|x86
+		{2F3FE328-491A-4593-86A6-428B58A60C39}.Debug|x86.Build.0 = Debug|x86
+		{2F3FE328-491A-4593-86A6-428B58A60C39}.Release|x86.ActiveCfg = Release|x86
+		{2F3FE328-491A-4593-86A6-428B58A60C39}.Release|x86.Build.0 = Release|x86
+		{AA140E91-16F8-456E-9DEC-1664979529C5}.Debug|x86.ActiveCfg = Debug|x86
+		{AA140E91-16F8-456E-9DEC-1664979529C5}.Debug|x86.Build.0 = Debug|x86
+		{AA140E91-16F8-456E-9DEC-1664979529C5}.Release|x86.ActiveCfg = Release|x86
+		{AA140E91-16F8-456E-9DEC-1664979529C5}.Release|x86.Build.0 = Release|x86
+		{B85B246C-B50E-40CD-A0D9-22F45365B427}.Debug|x86.ActiveCfg = Debug|x86
+		{B85B246C-B50E-40CD-A0D9-22F45365B427}.Debug|x86.Build.0 = Debug|x86
+		{B85B246C-B50E-40CD-A0D9-22F45365B427}.Release|x86.ActiveCfg = Release|x86
+		{B85B246C-B50E-40CD-A0D9-22F45365B427}.Release|x86.Build.0 = Release|x86
+		{7849E73B-0979-4B4D-9C13-C61144F666C3}.Debug|x86.ActiveCfg = Debug|x86
+		{7849E73B-0979-4B4D-9C13-C61144F666C3}.Debug|x86.Build.0 = Debug|x86
+		{7849E73B-0979-4B4D-9C13-C61144F666C3}.Release|x86.ActiveCfg = Release|x86
+		{7849E73B-0979-4B4D-9C13-C61144F666C3}.Release|x86.Build.0 = Release|x86
+		{CFB7CEFD-4CA5-49CA-B09F-322A2FCF86B5}.Debug|x86.ActiveCfg = Debug|x86
+		{CFB7CEFD-4CA5-49CA-B09F-322A2FCF86B5}.Debug|x86.Build.0 = Debug|x86
+		{CFB7CEFD-4CA5-49CA-B09F-322A2FCF86B5}.Release|x86.ActiveCfg = Release|x86
+		{CFB7CEFD-4CA5-49CA-B09F-322A2FCF86B5}.Release|x86.Build.0 = Release|x86
+		{89845B11-FB39-407C-909E-AF634F969F95}.Debug|x86.ActiveCfg = Debug|x86
+		{89845B11-FB39-407C-909E-AF634F969F95}.Debug|x86.Build.0 = Debug|x86
+		{89845B11-FB39-407C-909E-AF634F969F95}.Release|x86.ActiveCfg = Release|x86
+		{89845B11-FB39-407C-909E-AF634F969F95}.Release|x86.Build.0 = Release|x86
+		{4C65B1D6-CAE6-4750-8399-4B5B06A5E23F}.Debug|x86.ActiveCfg = Debug|x86
+		{4C65B1D6-CAE6-4750-8399-4B5B06A5E23F}.Debug|x86.Build.0 = Debug|x86
+		{4C65B1D6-CAE6-4750-8399-4B5B06A5E23F}.Release|x86.ActiveCfg = Release|x86
+		{4C65B1D6-CAE6-4750-8399-4B5B06A5E23F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
